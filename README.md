@@ -20,7 +20,7 @@
 - 💬 Ask me about Anything 
 - 📫 How to reach me: ilyasnayle5@gmail.com 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: I love coding during the night 
+- ⚡ Fun fact: I love coding during the night  
 
 
 
