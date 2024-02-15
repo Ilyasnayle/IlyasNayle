@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ilyas Nayle</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Analyst</h3>
 <h4 align="center">An energetic and hardworking engineer with an eye for detail and a keen interest in business optimizing applications of data science. Specialized in motivating people, collaborating effectively, and data modeling and scripting. Adapt with the most in-demand programming languages, including Python, Java, JavaScript, C# and adept in HTML 5 and CSS. Aiming to develop skills in machine learning with the desire to contribute to ongoing growth and success.</h4>
 
 
