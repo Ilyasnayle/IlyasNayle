@@ -103,20 +103,6 @@ class IlyasNayle:
 
 ### 📊 GitHub Stats
 
-<!-- 
-  ⚠️ RELIABILITY NOTE:
-  The public github-readme-stats.vercel.app often goes down due to rate limits.
-  
-  OPTION A (Recommended): Self-host on Vercel for free:
-  1. Fork https://github.com/anuraghazra/github-readme-stats
-  2. Deploy your fork to Vercel (free)
-  3. Replace "github-readme-stats.vercel.app" with "YOUR-APP.vercel.app"
-  
-  OPTION B: Use the fast alternative (more reliable public instance):
-  Replace "github-readme-stats.vercel.app" with "github-readme-stats-fast.vercel.app"
-  
-  The URLs below use the public instance. If they break, use Option A or B above.
--->
 
 <p align="center">
   <a href="https://github.com/ilyasnayle">
@@ -150,32 +136,6 @@ class IlyasNayle:
   <img src="https://raw.githubusercontent.com/ilyasnayle/ilyasnayle/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<!--
-To enable the snake animation, create a GitHub Action:
-1. Go to your profile repo → Actions → New workflow
-2. Create .github/workflows/snake.yml with:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ilyasnayle
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 ---
 
