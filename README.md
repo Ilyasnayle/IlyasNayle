@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/ilyasnayle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ilyasnayle5@gmail.com"><img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://instagram.com/in_l3vi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/ilyasnayle"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
 ---
@@ -101,17 +103,43 @@ class IlyasNayle:
 
 ### 📊 GitHub Stats
 
+<!-- 
+  ⚠️ RELIABILITY NOTE:
+  The public github-readme-stats.vercel.app often goes down due to rate limits.
+  
+  OPTION A (Recommended): Self-host on Vercel for free:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy your fork to Vercel (free)
+  3. Replace "github-readme-stats.vercel.app" with "YOUR-APP.vercel.app"
+  
+  OPTION B: Use the fast alternative (more reliable public instance):
+  Replace "github-readme-stats.vercel.app" with "github-readme-stats-fast.vercel.app"
+  
+  The URLs below use the public instance. If they break, use Option A or B above.
+-->
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ilyasnayle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasnayle&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" />
+  <a href="https://github.com/ilyasnayle">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ilyasnayle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/ilyasnayle">
+    <img width="48%" src="https://streak-stats.demolab.com/?user=ilyasnayle&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=ffffff" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasnayle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&text_color=ffffff" />
+  <a href="https://github.com/ilyasnayle">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasnayle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&text_color=ffffff&cache_seconds=86400" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ilyasnayle&theme=darkhub&no-frame=true&column=7&margin-w=10" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyasnayle&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff" />
 </p>
 
 ---
